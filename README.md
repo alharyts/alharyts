@@ -56,6 +56,6 @@ Di luar itu semua, saya suka bermain game dan mendengarkan musik. Saya juga sena
 </p>
 
 
-<h2 align="center">Terima kasih telah mengunjungi GitHub saya!😊</h2>
+<h2 align="center">Aku Punya Ini</h2>
 
 ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
