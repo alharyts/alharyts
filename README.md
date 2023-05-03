@@ -8,7 +8,7 @@
 
 - 🏫 I am a student from **SMK Negeri 3 Banjar**.
 
-- 🌱 I am currently learning the" **Tailwind CSS framework**
+- 🌱 I am currently learning the **Tailwind CSS framework**
 
 - 💬 Ask me about **Tailwind CSS**
 
@@ -44,12 +44,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
-<!-- <h2 align="left">Tools:</h2>
-<p align="left">
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.getcomposer.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original-wordmark.svg" alt="composer" width="40" height="40"/> </a>
-</p> -->
 
+<h2 align="center">Watch my contribution graph get eaten by the snake 🐍</h2>
 
 ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
