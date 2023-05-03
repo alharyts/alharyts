@@ -8,6 +8,8 @@
 <p align="justify">
 Halo👋, saya adalah lulusan SMK jurusan RPL (Rekayasa Perangkat Lunak). Saya sangat tertarik pada dunia teknologi dan ingin memulai karir di bidang Software Enginner dibagian server side scripting (backend).
 Saat belajar di SMK, saya telah mempelajari bahasa pemrograman seperti JavaScript dan PHP. Saya juga pernah mengerjakan beberapa proyek aplikasi web, termasuk toko online dan aplikasi pengaduan masyarakat (project ujikom).
+</p>
+<p align="justify">
 Sekarang, saya sedang mencari kesempatan untuk bekerja atau magang di bidang teknologi untuk memperluas pengetahuan saya dan mengembangkan keterampilan saya dalam lingkungan kerja yang sesuai.
 Di luar itu semua, saya suka bermain game dan mendengarkan musik. Saya juga senang belajar hal-hal baru seperti bahasa pemrograman atau teknologi baru untuk meningkatkan keterampilan saya dan memperluas pengetahuan saya dalam bidang teknologi.
 </p>
