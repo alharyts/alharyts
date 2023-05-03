@@ -14,7 +14,9 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://instagram.com/alharits25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luxfoz" height="32" width="42" /></a>
+<a href="http://twitter.com/alharits25" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="35" /></a>
+<a href="http://linkedin.com/in/alharits25" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="35" /></a>
+<a href="http://instagram.com/alharits25" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="35" /></a>
 </p>
 
 ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
