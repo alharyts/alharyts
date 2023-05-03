@@ -1,10 +1,12 @@
 <!-- ## 👋 Hey everyone 👋 -->
 <h1 align="center">Hi 👋, I'm Atyla Azfa Al Harits</h1>
-<h3 align="center">Junior Web Developer</h3>
+<h3 align="center">Beginner</h3>
 
-- 🔭 I aspire to become a **Backend Engineer**
+- 🔭 I aspire to become a **Software Engineer**
 
-- 🌱 "I am currently learning the" **Tailwind CSS framework**
+- 🏫 I am a student from **SMK Negeri 3 Banjar**.
+
+- 🌱 I am currently learning the" **Tailwind CSS framework**
 
 - 💬 Ask me about **Tailwind CSS**
 
