@@ -3,7 +3,7 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=alharyts.alharyts)
 
 <h2 align="center">About Me</h2>
-<h1 align="left">Hi 👋, I'm Atyla Azfa Al Harits</h1>
+# Hi 👋, I'm Atyla Azfa Al Harits
 <p align="justify">
 Halo👋, saya adalah lulusan SMK jurusan RPL (Rekayasa Perangkat Lunak). Saya sangat tertarik pada dunia teknologi dan ingin memulai karir di bidang Software Enginner dibagian server side scripting (backend).
 Saat belajar di SMK, saya telah mempelajari bahasa pemrograman seperti JavaScript dan PHP. Saya juga pernah mengerjakan beberapa proyek aplikasi web, termasuk toko online dan aplikasi pengaduan masyarakat (project ujikom).
