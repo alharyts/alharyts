@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://raw.githubusercontent.com/<USERNAME>/<REPOSITORY>/main/<FILE_NAME>.gif" width="200" height="200" />
 
 <!--
 **alharyts/alharyts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
