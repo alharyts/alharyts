@@ -1,6 +1,6 @@
 <!-- ## 👋 Hey everyone 👋 -->
 <h1 align="center">Hi 👋, I'm Atyla Azfa Al Harits</h1>
-<h3 align="center">Rekayasa Perangkat Lunak</h3>
+<h2 align="center">Rekayasa Perangkat Lunak</h2>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=alharyts.alharyts)
 
