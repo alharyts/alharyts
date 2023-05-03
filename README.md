@@ -1,6 +1,5 @@
 <!-- ## 👋 Hey everyone 👋 -->
 <h1 align="center">Hi 👋, I'm Atyla Azfa Al Harits</h1>
-<h3 align="center">Beginner</h3>
 
 - 🔭 I aspire to become a **Software Engineer**
 
