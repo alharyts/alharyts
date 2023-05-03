@@ -51,7 +51,7 @@
 ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
 
 
-Halo, saya adalah [nama Anda], lulusan SMK jurusan RPL (Rekayasa Perangkat Lunak). Saya sangat tertarik pada dunia teknologi dan ingin memulai karir di bidang [bidang atau industri yang Anda minati].
+<!-- Halo, saya adalah [nama Anda], lulusan SMK jurusan RPL (Rekayasa Perangkat Lunak). Saya sangat tertarik pada dunia teknologi dan ingin memulai karir di bidang [bidang atau industri yang Anda minati].
 
 Saat belajar di SMK, saya telah mempelajari [bahasa pemrograman atau teknologi yang Anda kuasai] dan mengerjakan beberapa proyek, termasuk [proyek atau aplikasi yang telah Anda buat]. Saya juga mengikuti pelatihan dan sertifikasi di [nama pelatihan atau sertifikasi yang Anda peroleh].
 
@@ -62,3 +62,4 @@ Di luar pekerjaan, saya suka [hobi atau kegiatan Anda seperti coding, bermain ga
 Jika Anda tertarik untuk bekerja sama dengan saya atau memberikan saran, jangan ragu untuk mengirim pesan atau terhubung melalui akun LinkedIn saya di [nama akun LinkedIn Anda].
 
 Terima kasih telah mengunjungi profil saya!
+ -->
