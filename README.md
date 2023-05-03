@@ -1,8 +1,8 @@
 <!-- ## 👋 Hey everyone 👋 -->
-<h1 align="center">Hi 👋, I'm Atyla Azfa Al Harits</h1>
+![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=alharyts&repo=alharyts)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=alharyts.alharyts)
 
-  ![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=alharyts&repo=alharyts)
-  ![Profile views](https://visitor-badge.glitch.me/badge?page_id=alharyts.alharyts)
+<h1 align="center">Hi 👋, I'm Atyla Azfa Al Harits</h1>
 
 <h2 align="center">About Me</h2>
 <p align="justify">
