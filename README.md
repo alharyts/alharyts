@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Atyla Azfa Al Harits</h1>
 <h3 align="center">Junior Backend Developer</h3>
 
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=alharyts.alharyts)
+
 - 🔭 I aspire to become a **Backend Engineer**
 
 - 🏫 I am a student from **SMK Negeri 3 Banjar**.
