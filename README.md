@@ -15,7 +15,7 @@
 - 📫 How to reach me **azfaalharits25@gmail.com**
 
 <h2 align="left">Connect with me:</h2>
-<p align="center">
+<p align="left">
 <a href="http://twitter.com/alharits25" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="35" /></a>
 <a href="http://linkedin.com/in/alharits25" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="35" /></a>
 <a href="http://instagram.com/alharits25" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="35" /></a>
