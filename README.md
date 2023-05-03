@@ -47,6 +47,7 @@ Di luar itu semua, saya suka bermain game dan mendengarkan musik. Saya juga sena
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
+<a href="https://codeigniter.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="codeigniter" width="40" height="40"/> </a>
 </p>
 
 <h2 align="left">Databases:</h2>
@@ -58,15 +59,3 @@ Di luar itu semua, saya suka bermain game dan mendengarkan musik. Saya juga sena
 <h2 align="center">Terima kasih telah mengunjungi GitHub saya!😊</h2>
 
 ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
-
-
-<!-- Halo👋, saya adalah lulusan SMK jurusan RPL (Rekayasa Perangkat Lunak). Saya sangat tertarik pada dunia teknologi dan ingin memulai karir di bidang Software Enginner dibagian server side scripting (backend developer).
-
-Saat belajar di SMK, saya telah mempelajari bahasa pemrograman seperti JavaScript dan PHP. Saya juga pernah mengerjakan beberapa proyek aplikasi web, termasuk toko online dan aplikasi pengaduan masyarakat (project ujikom).
-
-Sekarang, saya sedang mencari kesempatan untuk bekerja atau magang di bidang teknologi untuk memperluas pengetahuan saya dan mengembangkan keterampilan saya dalam lingkungan kerja yang sesuai.
-
-Di luar itu semua, saya suka bermain game dan mendengarkan musik. Saya juga senang belajar hal-hal baru seperti bahasa pemrograman atau teknologi baru untuk meningkatkan keterampilan saya dan memperluas pengetahuan saya dalam bidang teknologi.
-
-Terima kasih telah mengunjungi GitHub saya!😊
- -->
