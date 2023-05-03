@@ -5,6 +5,14 @@
   ![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=alharyts&repo=alharyts)
   ![Profile views](https://visitor-badge.glitch.me/badge?page_id=alharyts.alharyts)
 
+Halo👋, saya adalah lulusan SMK jurusan RPL (Rekayasa Perangkat Lunak). Saya sangat tertarik pada dunia teknologi dan ingin memulai karir di bidang Software Enginner dibagian server side scripting (backend).
+
+Saat belajar di SMK, saya telah mempelajari bahasa pemrograman seperti JavaScript dan PHP. Saya juga pernah mengerjakan beberapa proyek aplikasi web, termasuk toko online dan aplikasi pengaduan masyarakat (project ujikom).
+
+Sekarang, saya sedang mencari kesempatan untuk bekerja atau magang di bidang teknologi untuk memperluas pengetahuan saya dan mengembangkan keterampilan saya dalam lingkungan kerja yang sesuai.
+
+Di luar itu semua, saya suka bermain game dan mendengarkan musik. Saya juga senang belajar hal-hal baru seperti bahasa pemrograman atau teknologi baru untuk meningkatkan keterampilan saya dan memperluas pengetahuan saya dalam bidang teknologi.
+
 - 🔭 I aspire to become a **Backend Engineer**
 
 - 🏫 I am a student from **SMK Negeri 3 Banjar**.
@@ -46,20 +54,18 @@
 </p>
 
 
-<h2 align="center">Watch my contribution graph get eaten by the snake 🐍</h2>
+<h2 align="center">Terima kasih telah mengunjungi GitHub saya!😊</h2>
 
 ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
 
 
-<!-- Halo, saya adalah [nama Anda], lulusan SMK jurusan RPL (Rekayasa Perangkat Lunak). Saya sangat tertarik pada dunia teknologi dan ingin memulai karir di bidang [bidang atau industri yang Anda minati].
+<!-- Halo👋, saya adalah lulusan SMK jurusan RPL (Rekayasa Perangkat Lunak). Saya sangat tertarik pada dunia teknologi dan ingin memulai karir di bidang Software Enginner dibagian server side scripting (backend developer).
 
-Saat belajar di SMK, saya telah mempelajari [bahasa pemrograman atau teknologi yang Anda kuasai] dan mengerjakan beberapa proyek, termasuk [proyek atau aplikasi yang telah Anda buat]. Saya juga mengikuti pelatihan dan sertifikasi di [nama pelatihan atau sertifikasi yang Anda peroleh].
+Saat belajar di SMK, saya telah mempelajari bahasa pemrograman seperti JavaScript dan PHP. Saya juga pernah mengerjakan beberapa proyek aplikasi web, termasuk toko online dan aplikasi pengaduan masyarakat (project ujikom).
 
 Sekarang, saya sedang mencari kesempatan untuk bekerja atau magang di bidang teknologi untuk memperluas pengetahuan saya dan mengembangkan keterampilan saya dalam lingkungan kerja yang sesuai.
 
-Di luar pekerjaan, saya suka [hobi atau kegiatan Anda seperti coding, bermain game, atau mengikuti forum teknologi]. Saya juga senang belajar [hal-hal baru seperti bahasa pemrograman atau teknologi baru] untuk meningkatkan keterampilan saya dan memperluas pengetahuan saya dalam bidang teknologi.
+Di luar itu semua, saya suka bermain game dan mendengarkan musik. Saya juga senang belajar hal-hal baru seperti bahasa pemrograman atau teknologi baru untuk meningkatkan keterampilan saya dan memperluas pengetahuan saya dalam bidang teknologi.
 
-Jika Anda tertarik untuk bekerja sama dengan saya atau memberikan saran, jangan ragu untuk mengirim pesan atau terhubung melalui akun LinkedIn saya di [nama akun LinkedIn Anda].
-
-Terima kasih telah mengunjungi profil saya!
+Terima kasih telah mengunjungi GitHub saya!😊
  -->
