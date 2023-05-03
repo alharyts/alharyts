@@ -1,6 +1,5 @@
 ### Hi there 👋
-![alt text](https://raw.githubusercontent.com/<USERNAME>/<REPOSITORY>/main/<FILE_NAME>.gif)
-
+![Alt Text](/images/animation.gif)
 <!--
 **alharyts/alharyts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
