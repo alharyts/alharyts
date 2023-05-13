@@ -30,7 +30,7 @@ Di luar itu semua, saya suka bermain game dan mendengarkan musik. Saya juga sena
 <a href="http://linkedin.com/in/alharits25" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="35" /></a>
 <a href="http://instagram.com/alharits25" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="35" /></a>
 </p>
-
+<!-- 
 <h2 align="left">Programming language:</h2>
 <p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -53,6 +53,6 @@ Di luar itu semua, saya suka bermain game dan mendengarkan musik. Saya juga sena
 <h2 align="left">Databases:</h2>
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
-</p>
+</p> -->
 
 ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
