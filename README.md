@@ -1,5 +1,5 @@
 <!-- ## 👋 Hey everyone 👋 -->
-![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=alharyts&repo=alharyts)
+<!-- ![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=alharyts&repo=alharyts) -->
 <!-- ![Profile views](https://visitor-badge.glitch.me/badge?page_id=alharyts.alharyts) -->
 
 # Hi There👋, I'm Atyla Azfa Al Harits
@@ -12,7 +12,7 @@ Sekarang, saya sedang mencari kesempatan untuk bekerja atau magang di bidang tek
 Di luar itu semua, saya suka bermain game dan mendengarkan musik. Saya juga senang belajar hal-hal baru seperti bahasa pemrograman atau teknologi baru untuk meningkatkan keterampilan saya dan memperluas pengetahuan saya dalam bidang teknologi.
 </p>
    -->
-- 🔭 I aspire to become a **Backend Engineer**
+<!-- - 🔭 I aspire to become a **Backend Engineer**
 
 - 🏫 I am a student from **SMK Negeri 3 Banjar**.
 
@@ -21,7 +21,7 @@ Di luar itu semua, saya suka bermain game dan mendengarkan musik. Saya juga sena
 - 💬 Ask me about **Tailwind CSS**
 
 - 📫 How to reach me **azfaalharits25@gmail.com**
-
+ -->
 <!-- <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="http://twitter.com/alharits25" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="35" /></a>
