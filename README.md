@@ -4,11 +4,9 @@
 # Hi There👋, I'm Atyla Azfa Al Harits
 - 🔭 I aspire to become a **Backend Engineer**
 
-- 🏫 I am a student from **SMK Negeri 3 Banjar**.
-
 - 🌱 I am currently learning the **JavaScript**
 
-- 💬 Ask me about **Tailwind CSS**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **azfaalharits25@gmail.com**
 
