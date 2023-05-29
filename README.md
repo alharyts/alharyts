@@ -1,5 +1,5 @@
 <!-- ## 👋 Hey everyone 👋 -->
-![Profile views](https://gpvc.arturio.dev/novalramdhani)
+![Profile views](https://gpvc.arturio.dev/alharyts)
 
 # Hi There👋, I'm Atyla Azfa Al Harits
 - 🔭 I aspire to become a **Backend Engineer**
@@ -23,6 +23,6 @@
 <!-- <h2 align="left">Databases:</h2>
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
-</p> --> -->
+</p> -->
 
 ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
