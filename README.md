@@ -1,5 +1,4 @@
 <!-- ## 👋 Hey everyone 👋 -->
-![Profile views](https://gpvc.arturio.dev/alharyts)
 
 # Hi There👋, I'm Atyla Azfa Al Harits
 - 🔭 I aspire to become a **Backend Engineer**
