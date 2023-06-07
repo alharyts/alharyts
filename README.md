@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **azfaalharits25@gmail.com**
 
-p
 
 <!-- <h2 align="left">Tech Stack:</h2>
 <p align="left">
