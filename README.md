@@ -1,7 +1,7 @@
 <!-- ## 👋 Hey everyone 👋 -->
 
 # Hi There👋, I'm Atyla Azfa Al Harits
-- 🔭 I aspire to become a **Backend Engineer**
+- 🔭 I am a **Backend Developer**
 
 - 🌱 I am currently learning the **JavaScript**
 
