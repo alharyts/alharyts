@@ -1,5 +1,3 @@
-<!-- ## 👋 Hey everyone 👋 -->
-
 # Hi There👋, I'm Atyla Azfa Al Harits
 - 🔭 I am a **Backend Developer**
 
