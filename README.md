@@ -1,7 +1,7 @@
 # Hi There, I'm Atyla Azfa Al Harits
 - 🔭 I am a **Backend Developer**
 
-- 🌱 I am currently learning the **JavaScript**
+- 🌱 I am currently learning the **JavaScript and PHP**
 
 - 💬 Ask me about **JavaScript**
 
