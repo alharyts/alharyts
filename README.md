@@ -7,6 +7,4 @@
 
 - 📫 How to reach me **azfaalharits25@gmail.com**
 
-- 🌍 Visit my portfolio https://alharyts.github.io
-
 ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
