@@ -1,5 +1,5 @@
 # Hi There, I'm Atyla Azfa Al Harits
-- 🔭 I am a **Backend Developer**
+- 🔭 I am a **Web Developer**
 
 - 🌱 I am currently learning the **JavaScript and PHP**
 
