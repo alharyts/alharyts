@@ -3,7 +3,7 @@
 
 - 🌱 I am currently learning the **JavaScript and PHP**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript || PHP**
 
 - 📫 How to reach me **azfaalharits25@gmail.com**
 
