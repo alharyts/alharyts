@@ -1,4 +1,4 @@
-8# Hi There, I'm Atyla Azfa Al Harits
+# Hi There, I'm Atyla Azfa Al Harits
 - 🔭 I am a **Web Developer**
 
 - 🌱 I am currently learning the **JavaScript and PHP**
